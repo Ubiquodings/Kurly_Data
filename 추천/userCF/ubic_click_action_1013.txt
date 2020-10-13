@@ -1,0 +1,219 @@
+[
+    {
+        "now": "2020-09-10T19:15:20.557839900",
+        "userId": "47161",
+        "productId": 46176,
+        "categoryId": 50,
+        "actionType": "order"
+    },
+    {
+        "now": "2020-09-10T16:53:51.114428",
+        "userId": "47161",
+        "productId": 20522,
+        "categoryId": 18,
+        "actionType": "order"
+    },
+    {
+        "now": "2020-09-10T16:53:53.467112700",
+        "userId": "47161",
+        "productId": 20522,
+        "categoryId": 18,
+        "actionType": "order"
+    },
+    {
+        "now": "2020-09-11T07:14:03.409418900",
+        "userId": "47344",
+        "productId": 20522,
+        "categoryId": 18,
+        "actionType": "order"
+    },
+    {
+        "now": "2020-09-11T07:14:03.937421400",
+        "userId": "47351",
+        "productId": 9694,
+        "categoryId": 10,
+        "actionType": "order"
+    },
+    {
+        "now": "2020-09-11T05:47:15.807198400",
+        "userId": "47343",
+        "productId": 20522,
+        "categoryId": 18,
+        "actionType": "order"
+    },
+    {
+        "now": "2020-10-05T22:21:28.496409900",
+        "userId": "47705",
+        "productId": 20522,
+        "categoryId": 18,
+        "actionType": "order-create"
+    },
+    {
+        "now": "2020-10-05T23:39:28.289766400",
+        "userId": "47715",
+        "productId": 20522,
+        "categoryId": 18,
+        "actionType": "order-create"
+    },
+    {
+        "now": "2020-10-05T23:38:51.605468400",
+        "userId": "47715",
+        "productId": 9694,
+        "categoryId": 10,
+        "actionType": "order-create"
+    },
+    {
+        "now": "2020-10-05T23:38:59.532860700",
+        "userId": "47715",
+        "productId": 9694,
+        "categoryId": 10,
+        "actionType": "order-create"
+    },
+    {
+        "now": "2020-10-06T00:23:29.984514600",
+        "userId": "47756",
+        "productId": 4117,
+        "categoryId": 3,
+        "actionType": "order-create"
+    },
+    {
+        "now": "2020-10-06T00:19:49.025826300",
+        "userId": "47732",
+        "productId": 4117,
+        "categoryId": 3,
+        "actionType": "order-create"
+    },
+    {
+        "now": "2020-10-06T00:19:49.214832900",
+        "userId": "47732",
+        "productId": 4117,
+        "categoryId": 3,
+        "actionType": "order-create"
+    },
+    {
+        "now": "2020-10-06T00:19:46.321285900",
+        "userId": "47733",
+        "productId": 4117,
+        "categoryId": 3,
+        "actionType": "order-create"
+    },
+    {
+        "now": "2020-10-06T00:19:48.521828800",
+        "userId": "47732",
+        "productId": 4117,
+        "categoryId": 3,
+        "actionType": "order-create"
+    },
+    {
+        "now": "2020-10-06T00:19:55.707938900",
+        "userId": "47750",
+        "productId": 4117,
+        "categoryId": 3,
+        "actionType": "order-create"
+    },
+    {
+        "now": "2020-10-06T15:58:50.371208300",
+        "userId": "47161",
+        "productId": 5424,
+        "categoryId": 6,
+        "actionType": "order-create"
+    },
+    {
+        "now": "2020-10-06T15:58:51.873199",
+        "userId": "47161",
+        "productId": 5424,
+        "categoryId": 6,
+        "actionType": "order-create"
+    },
+    {
+        "now": "2020-10-06T15:58:59.163236600",
+        "userId": "47161",
+        "productId": 4117,
+        "categoryId": 3,
+        "actionType": "order-create"
+    },
+    {
+        "now": "2020-10-06T19:08:18.229783200",
+        "userId": "47857",
+        "productId": 4097,
+        "categoryId": 3,
+        "actionType": "order-create"
+    },
+    {
+        "now": "2020-10-06T14:08:02.328871800",
+        "userId": "47161",
+        "productId": 5424,
+        "categoryId": 6,
+        "actionType": "order-create"
+    },
+    {
+        "now": "2020-10-06T13:51:37.015031800",
+        "userId": "47161",
+        "productId": 11794,
+        "categoryId": 12,
+        "actionType": "order-create"
+    },
+    {
+        "now": "2020-10-06T15:25:42.136222800",
+        "userId": "47161",
+        "productId": 5424,
+        "categoryId": 6,
+        "actionType": "order-create"
+    },
+    {
+        "now": "2020-10-06T15:25:42.344226600",
+        "userId": "47161",
+        "productId": 5424,
+        "categoryId": 6,
+        "actionType": "order-create"
+    },
+    {
+        "now": "2020-10-06T13:52:52.957940600",
+        "userId": "47161",
+        "productId": 5424,
+        "categoryId": 6,
+        "actionType": "order-create"
+    },
+    {
+        "now": "2020-10-06T16:24:30.190640900",
+        "userId": "47161",
+        "productId": 4117,
+        "categoryId": 3,
+        "actionType": "order-create"
+    },
+    {
+        "now": "2020-10-06T16:24:36.470117100",
+        "userId": "47161",
+        "productId": 11794,
+        "categoryId": 12,
+        "actionType": "order-create"
+    },
+    {
+        "now": "2020-10-06T16:45:52.312495200",
+        "userId": "47835",
+        "productId": 11794,
+        "categoryId": 12,
+        "actionType": "order-create"
+    },
+    {
+        "now": "2020-10-06T16:45:52.484493500",
+        "userId": "47835",
+        "productId": 4097,
+        "categoryId": 3,
+        "actionType": "order-create"
+    },
+    {
+        "now": "2020-10-06T16:45:53.133541800",
+        "userId": "47835",
+        "productId": 4060,
+        "categoryId": 3,
+        "actionType": "order-create"
+    },
+    {
+        "now": "2020-10-08T19:55:31.829586900",
+        "userId": "47161",
+        "productId": 6079,
+        "categoryId": 7,
+        "actionType": "order-create"
+    }
+]
